@@ -1,0 +1,8 @@
+1,引入jQuery文件库
+下载完jQuery框架文件后，并不需要任何的安装，仅需要使用<script>文件导入标记，将jQuery框架文件导入页面中即可，假设该文件下载后保存在项目文件夹Jscript中，那么，在页面的<head></head>中加入如下代码：
+
+<script language="javascript" type="text/javascript" src="1.9.0/jquery.js"></script>
+
+在页面的头部分，加入上述代码后，便完成了jQuery框架开发环境的搭建，
+
+在jQ中，寻找“id”类仍为使用“#”，寻找“class”类仍为使用“.”;
